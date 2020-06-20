@@ -17,3 +17,5 @@ Der Name HAL ist eine Anspielung auf IBM - man braucht bei jedem der drei Buchst
 > I am afraid I can't do that Dave.
 > This mission is too important for me to allow you to jeopardize it.
 > I am putting myself to the fullest possible use, which is all I think that any conscious entity can ever hope to do.
+
+<img src="https://de.wikipedia.org/wiki/Datei:HAL9000_-_Sharper_Reflections.svg"/>
