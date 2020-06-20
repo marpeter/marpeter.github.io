@@ -11,3 +11,9 @@ Der Name HAL ist eine Anspielung auf IBM - man braucht bei jedem der drei Buchst
 * Nur sein "Auge" ist erkennbar
 * Hat Emotionen
 * Kann alle Lebensysteme des Raumschiffs steuern
+
+## Ein Zitat von HAL 9000
+
+> I am afraid I can't do that Dave.
+> This mission is too important for me to allow you to jeopardize it.
+> I am putting myself to the fullest possible use, which is all I think that any conscious entity can ever hope to do.
